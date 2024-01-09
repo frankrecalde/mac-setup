@@ -2,12 +2,7 @@
 
 # Mac Setup
 
-> Integrations & instructions for Amazee Lagoon
+> Mac and Dev setup including productivity tools
 
 [Get Started](readme.md)
-[Lagoon Dashboard](https://dashboard.amazeeio.cloud)
-[New Project](lando-new-project.md)
-
-<!-- background color -->
-
-![color](#f3f3f3)
+[Productivity tips](productivity.md)
